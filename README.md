@@ -1,7 +1,9 @@
-# rst-converter-service
+# CarbonaraJack/rst-tool-docker
 
-![Github Actions Build status](https://github.com/rst-workbench/rst-converter-service/actions/workflows/ci.yml/badge.svg)  
-*Docker hub*: [nlpbox/rst-converter-service](https://hub.docker.com/r/nlpbox/rst-converter-service)
+Small bugfix to the original rst-converter service.
+Refer to the [original repo](https://github.com/rst-workbench/rst-converter-service) for more info.
+
+# rst-converter-service
 
 REST API to convert between different Rhetorical Structure Theory file formats.
 It is built on top of the [discoursegraphs](http://github.com/arne-cl/discoursegraphs) library.
